@@ -15,14 +15,22 @@ Cuando el usuario se coloca frente a la cámara, su cuerpo proyecta una silueta 
 **2. Búsqueda de Referentes e Inspiración**
 Para cimentar la propuesta conceptual y técnica de la experiencia, se analizan dos referentes fundamentales que exploran la relación entre la silueta humana, el control gestual y la manifestación de entidades digitales:
 
-"The Treachery of Sanctuary" (Chris Milk): https://youtu.be/ehjklqL6g84?si=SGgCNYxpRhNbXBk6
+**A) "The Treachery of Sanctuary" (Chris Milk):** https://youtu.be/ehjklqL6g84?si=SGgCNYxpRhNbXBk6
 
 Análisis: Esta reconocida instalación interactiva utiliza pantallas gigantes y procesamiento de siluetas en tiempo real donde los movimientos corporales de los espectadores provocan la transformación de su propio cuerpo en aves que emergen, aletean y se desintegran.
 
 Aporte al proyecto: Sirve como inspiración directa para la interacción basada en sombras y la fluidez con la que los elementos gráficos (en nuestro caso, las alas y tentáculos de Cthulhu) brotan y responden dinámicamente al contorno y las extremidades del usuario, logrando una sincronía perfecta entre el cuerpo y el arte generativo.
 
-Película "Colossal" (Dir. Nacho Vigalondo, protagonizada por Anne Hathaway): https://youtu.be/8GZi7H6fvBY?si=ITF9zvKTPh8Bd4V2
+**B) Película "Colossal" (Dir. Nacho Vigalondo, protagonizada por Anne Hathaway):** https://youtu.be/8GZi7H6fvBY?si=ITF9zvKTPh8Bd4V2
 
 Análisis: En este largometraje, la protagonista descubre que sus movimientos físicos cotidianos realizados en un punto específico de la ciudad controlan, a escala masiva y en tiempo real, las acciones destructivas y de imitación de un monstruo gigante en el otro extremo del mundo.
 
 Aporte al proyecto: Aporta la narrativa conceptual del vínculo de control simbiótico: el usuario no es un simple espectador, sino el motor que da vida y dirige la voluntad de una criatura colossal (Cthulhu). Cada gesto de los brazos y desplazamiento se traduce en una acción directa del ente en el espacio digital.
+
+**C) Película "MEGAMENTE":** https://youtu.be/a_hsjTExzbw?si=zP-Z_clygNVQ0Df0 <img width="415" height="739" alt="image" src="https://github.com/user-attachments/assets/efefeb9a-5ec0-45eb-80bf-6d464dd5abe1" />
+
+Análisis:
+
+Aporte al proyecto:
+
+---
