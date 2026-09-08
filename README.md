@@ -34,3 +34,121 @@ Análisis:
 Aporte al proyecto:
 
 ---
+
+**3. Primeras Pruebas**
+
+Se realizaron pruebas para construir a Cthulhu directamente dentro del canvas.
+
+### Problema encontrado
+
+Aunque el sistema permitía generar una criatura visualmente compleja, el resultado no conservaba suficientemente la apariencia reconocible de Cthulhu.
+
+Esto era especialmente importante porque la identidad visual del personaje es uno de los elementos principales del proyecto.
+
+### Decisión
+
+Separar la representación del personaje de la simulación del movimiento.
+
+En lugar de intentar generar todo Cthulhu proceduralmente, se plantea utilizar una imagen como base y generar/interpolar el movimiento de elementos específicos, principalmente las alas.
+
+---
+
+**4. Nueva estrategia visual**
+
+### Imagen base
+
+Utilizar una imagen de Cthulhu como referencia visual principal.
+
+<img width="1280" height="1707" alt="cthulhu_face_portrait__by_maskedmidnight_dddjz51-fullview-Photoroom" src="https://github.com/user-attachments/assets/4a7a0ba0-d3c0-414d-9fed-8a03e74ba259" />
+
+La imagen funciona como la representación reconocible del personaje.
+
+### Movimiento
+
+El sistema se encargará de generar el movimiento de las alas mediante deformación, transformación o animación independiente.
+
+La intención es conseguir:
+
+- Movimiento orgánico.
+- Sensación de vida.
+- Movimiento sincronizado con la interacción.
+- Conservación de la apariencia original de Cthulhu.
+- Mayor control sobre la animación.
+
+---
+
+## 05 · Interacción
+
+La interacción será utilizada para modificar el comportamiento visual de Cthulhu.
+
+### Posibles variables
+
+- Intensidad de la interacción.
+- Movimiento de las alas.
+- Escala.
+- Oscilación.
+- Distorsión visual.
+
+La interacción no busca únicamente controlar al personaje, sino generar una sensación de que el usuario está provocando una reacción en la criatura.
+
+---
+
+## 06 · Movimiento de las alas
+
+### Objetivo
+
+Conseguir que las alas tengan un movimiento independiente del resto del cuerpo.
+
+El movimiento debe evitar verse como una simple rotación mecánica.
+
+Se busca una animación:
+
+- Orgánica.
+- Pesada.
+- Lenta.
+- Irregular.
+- Amenazante.
+
+### Pruebas
+
+Se probarán diferentes amplitudes, velocidades y formas de oscilación hasta encontrar un movimiento que transmita la sensación de una criatura viva.
+
+---
+
+## 07 · Problemas y soluciones
+
+| Problema | Solución |
+|---|---|
+| Cthulhu no era suficientemente reconocible | Utilizar una imagen como base |
+| El movimiento procedural alteraba demasiado la figura | Separar personaje y animación |
+| Las alas parecían rígidas | Aplicar movimiento independiente |
+| La animación se sentía mecánica | Incorporar oscilaciones y variaciones orgánicas |
+| La interacción no tenía suficiente impacto | Vincular la intensidad del movimiento a la interacción |
+
+---
+
+## 08 · Estado actual
+
+### Logrado
+- [x] Concepto visual definido.
+- [x] Cthulhu establecido como figura central.
+- [x] Identificado el problema de la generación procedural.
+- [x] Definida una nueva estrategia utilizando una imagen base.
+- [ ] Implementar alas animadas.
+- [ ] Conectar las alas con la interacción.
+- [ ] Ajustar movimiento.
+- [ ] Diseñar atmósfera final.
+- [ ] Integrar todos los elementos.
+
+---
+
+## 09 · Próximos pasos
+
+1. Seleccionar/preparar la imagen definitiva de Cthulhu.
+2. Separar visualmente las alas del cuerpo.
+3. Implementar el movimiento de las alas.
+4. Conectar el movimiento con el mouse/interacción.
+5. Ajustar velocidad, amplitud y comportamiento.
+6. Incorporar atmósfera y efectos visuales.
+7. Realizar pruebas.
+8. Documentar resultados.
