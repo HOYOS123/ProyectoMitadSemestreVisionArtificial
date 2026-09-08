@@ -109,9 +109,7 @@ Se busca una animación:
 - Irregular.
 - Amenazante.
 
-### Pruebas
-
-Se probarán diferentes amplitudes, velocidades y formas de oscilación hasta encontrar un movimiento que transmita la sensación de una criatura viva.
+### Pruebas y avamces
 
 https://youtu.be/XiYqHVxfu-8
 
