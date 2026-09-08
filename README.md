@@ -113,6 +113,14 @@ Se busca una animación:
 
 Se probarán diferentes amplitudes, velocidades y formas de oscilación hasta encontrar un movimiento que transmita la sensación de una criatura viva.
 
+https://youtu.be/XiYqHVxfu-8
+
+https://youtu.be/l8KqMk6VnEQ
+
+https://youtu.be/0UMGQHcQZ44
+
+
+
 ---
 
 ## 07 · Problemas y soluciones
